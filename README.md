@@ -1,0 +1,2 @@
+# fcp_playground_feature
+ICT内で必要だけど触ったことないものを触る場所　手触りを求めて
